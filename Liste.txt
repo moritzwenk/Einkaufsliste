@@ -1,0 +1,8 @@
+Einkaufsliste:
+
+-Milch
+-Brot
+-Honig
+-Butter
+-Obst
+-Wasser
