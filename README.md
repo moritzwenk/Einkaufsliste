@@ -1,9 +1,11 @@
-#**Lebenslauf**
+# **Lebenslauf**
 
-##**Daten**
+## **Daten**
 
 Geboren: 	13.07.100 v. Chr.
+
 Geburtsort: 	Rom
+
 Gestorben:	15.03.44 v. Chr.
 
 ##**Leben**
