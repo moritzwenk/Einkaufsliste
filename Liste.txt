@@ -6,3 +6,5 @@ Einkaufsliste:
 -Butter
 -Obst
 -Wasser
+-Karotten
+-Müsli
