@@ -1,6 +1,6 @@
 # **Lebenslauf**
 
-!(C:\Users\Moe\Einkaufsliste\Caesar.jpg "Ich")
+![](Caesar.jpg "Ich")
 
 ## **Daten**
 
